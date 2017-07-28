@@ -5,6 +5,7 @@
 
 #pragma once
 
+#include <codecvt>
 #include "antlr4-common.h"
 
 namespace antlrcpp {

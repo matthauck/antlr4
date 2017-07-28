@@ -5,6 +5,7 @@
 
 #include "Token.h"
 
+#include <locale>
 #include "Vocabulary.h"
 
 using namespace antlr4::dfa;
